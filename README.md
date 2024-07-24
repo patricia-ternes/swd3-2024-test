@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/833182592.svg)](https://zenodo.org/doi/10.5281/zenodo.12807575)
+
 Project to test SWD3 workflow.
 Official deliver is tomorrow.
 
